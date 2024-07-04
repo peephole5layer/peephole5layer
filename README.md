@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyanshu mishra</h1>
 <h3 align="center">A passionate ,web developer, intrested in cloud☁️ and system design</h3>
 
-- 🌱 I’m currently learning **aws**
+- 🌱 I’m currently learning **spring framework**
 
 - 👯 I’m looking to collaborate on **cloud native projects**
 
