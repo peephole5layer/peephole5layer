@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **cloud native projects**
 
-- 🤝 I’m looking for help with **cloud**
+- 🤝 I’m looking for help with **Rest API and Microservices**
 
 - 📫 How to reach me **mdivyanshu624@gmail.com**
 
