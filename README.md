@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyanshu mishra</h1>
-<h3 align="center">A passionate ,web developer, intrested in cloud☁️ and system design</h3>
+<h3 align="center">A passionate Java Devloper, intrested in cloud☁️ and system design</h3>
 
 - 🌱 I’m currently learning **spring framework**
 
